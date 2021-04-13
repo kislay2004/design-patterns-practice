@@ -59,7 +59,7 @@ class ParserClientUsingFactory {
    But useful, lets say we need to have the same signature and want two different instances semantically.
    createRadioButton(int minValue) and createRadioButton(int maxValue)
 
-  * Note2]: What are the advantages? Loos coupling for one.
+  * Note2]: What are the advantages? Loose coupling for one.
 
 */
 
